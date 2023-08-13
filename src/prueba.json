@@ -1,0 +1,10 @@
+{"title": "Leche", "Description": "Entera", "price":1000, "thumbnail":"Sin imagen", "code": "1ac100", "stock":20, "id":1},
+{"title": "Yogurt", "Description": "Natural", "price":400, "thumbnail":"Sin imagen", "code": "1ac101", "stock":20, "id":2},
+{"title": "Queso", "Description": "Cremoso", "price":2000, "thumbnail":"Sin imagen", "code": "1ac102", "stock":20, "id":3},
+{"title": "Manteca", "Description": "Natural", "price":400, "thumbnail":"Sin imagen", "code": "1ac103", "stock":20, "id":4},
+{"title": "Margarina", "Description": "Untable", "price":300, "thumbnail":"Sin imagen", "code": "1ac104", "stock":20, "id":5},}
+{"title": "Costilla", "Description": "Novillito", "price":2000, "thumbnail":"Sin imagen", "code": "1ac100", "stock":20, "id":6},
+{"title": "Vacio", "Description": "Novillito", "price":2500, "thumbnail":"Sin imagen", "code": "1ac101", "stock":20, "id":7},
+{"title": "Tapa de Asado", "Description": "Novillito", "price":2000, "thumbnail":"Sin imagen", "code": "1ac102", "stock":20, "id":8},
+{"title": "Falda", "Description": "Novillito", "price":1500, "thumbnail":"Sin imagen", "code": "1ac103", "stock":20, "id":9},
+{"title": "Entrecot", "Description": "Novillito", "price":2000, "thumbnail":"Sin imagen", "code": "1ac104", "stock":20, "id":10},

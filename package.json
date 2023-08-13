@@ -1,4 +1,5 @@
 {
+  "type: module",
   "name": "desafio3-elisabeth",
   "version": "1.0.0",
   "description": "",
@@ -8,5 +9,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
